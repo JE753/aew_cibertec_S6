@@ -14,10 +14,17 @@ p{
     text-align: center;
 }
 .contenedor-tarjeta{
-background-color: rgb(221, 170, 133);
+background-color: greenyellow;
 align-content: center;
 align-items: center;
 }
 .datos-contacto{
     text-align: center;
+}
+.foto-perfil img{
+    align-items: center;
+    align-content: center;
+    width: 200px;
+    border-width: 8px;
+    border-style: solid;
 }
